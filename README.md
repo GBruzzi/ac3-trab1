@@ -81,12 +81,12 @@ O artigo completo está disponível na pasta [`/artigo`](./artigo/) e segue as n
 ## 👨‍💻 Integrantes
 
 | Nome | GitHub | 
-|---|---|---|
-| Ana Clara Duarte (https://github.com/usuario1) | @usuario1 | 
-| Gabriel Bruzzi (https://github.com/usuario2) | @usuario2 | 
-| Júlia (https://github.com/usuario3) | @usuario3 |
-| Kenia Teixeira (https://github.com/usuario4) | @usuario4 | 
-| Júlia Sebatstião ( https://github.com/usuario5) | @usuario5 | Documentação e Artigo |
+|---|---|
+| Ana Clara Duarte | @anaclaraduarte0011 | 
+| Gabriel Bruzzi | @gbruzzi | 
+| Júlia  | @usuario3 |
+| Kenia Teixeira  | @usuario4 | 
+| Júlia Sebatstião  | @usuario5 | 
 
 ---
 
