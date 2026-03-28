@@ -83,7 +83,7 @@ O artigo completo está disponível na pasta [`/artigo`](./artigo/) e segue as n
 | Nome | GitHub | 
 |---|---|
 | Ana Clara Duarte | @anaclaraduarte0011 | 
-| Gabriel Bruzzi | @gbruzzi | 
+| Guilherme Bruzzi | @gbruzzi | 
 | Júlia  | @usuario3 |
 | Kenia Teixeira  | @usuario4 | 
 | Júlia Sebatstião  | @usuario5 | 
