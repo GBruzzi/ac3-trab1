@@ -84,7 +84,7 @@ O artigo completo está disponível na pasta [`/artigo`](./artigo/) e segue as n
 |---|---|
 | Ana Clara Duarte | @anaclaraduarte0011 | 
 | Guilherme Bruzzi | @gbruzzi | 
-| Júlia  | @usuario3 |
+| Júlia  | @Juliarvm |
 | Kenia Teixeira  | @usuario4 | 
 | Júlia Sebatstião  | @usuario5 | 
 
