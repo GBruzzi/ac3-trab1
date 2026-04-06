@@ -28,7 +28,7 @@ núcleos:    1
 cache_L1:   32 KB
 cache_L2:   256 KB
 política:   LRU (Least Recently Used)
-simulador:  gem5  # ou substitua pelo utilizado pelo grupo
+simulador:  Sniper
 ```
 
 ---
